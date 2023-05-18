@@ -11,8 +11,7 @@ The project is deployed and accessible at [https://spotify-toptracks.onrender.co
 To run this application locally, you need to have Python installed. Clone the repository and install the required dependencies using the following commands:
 
 ```shell
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/Firangi0799/Streamlit-Spotify-TopTracks.git
 pip install -r requirements.txt
 ```
 
